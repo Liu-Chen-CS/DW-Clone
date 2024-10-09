@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.liuchen</groupId>
-    <artifactId>iubh-back</artifactId>
+    <artifactId>DW-back</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>iubh-back</name>
     <description>iubh-back</description>
