@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IUBH.iml" filepath="$PROJECT_DIR$/IUBH.iml" />
-      <module fileurl="file://$PROJECT_DIR$/iubh-back/iubh-back.iml" filepath="$PROJECT_DIR$/iubh-back/iubh-back.iml" />
     </modules>
   </component>
 </project>
