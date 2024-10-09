@@ -1,0 +1,44 @@
+.toggle-container{
+    width: 150px;
+    height: 50px;
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.toggle-container .toggle-icon{
+    width: 80px;
+    height:24px;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+    padding: 1px;
+    box-sizing: border-box;
+    border: 2px solid #8F9192;
+}
+.toggle-container .toggle-icon:hover{
+    cursor: pointer;
+}
+.toggle-container span{
+    transition: 0.2s all 0s ease;
+}
+.toggle-container .bold{
+    transform: scale(1.1);
+    font-weight: bold;
+    color: #1EA2B1;
+}
+.toggle-icon .circle{
+    width: 22px;
+    height: 100%;
+    background-color: #1EA2B1;
+    border-radius: 50%;
+    transition: 0.2s all 0s ease;
+}
+.toggle-icon .move-left{
+    transform: translateX(0px);
+}
+.toggle-icon .move-right{
+    transform: translateX(52px);
+}
+

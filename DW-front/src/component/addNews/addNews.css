@@ -1,0 +1,26 @@
+.addBook-wrapper{
+    margin: 0 auto;
+    width: 90vw;
+    margin-top: 20px;
+}
+.addBook-wrapper button{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    transition: 0.2s all 0s ease;
+    border: none;
+    background-color: red;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.addBook-wrapper button:hover{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+.addBook-wrapper .submit-button{
+    margin-left: 5px;
+}
+

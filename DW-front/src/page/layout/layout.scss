@@ -1,0 +1,10 @@
+.layout-wrapper{
+  width: 90vw;
+  height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+.layout-wrapper > .content{
+  flex: 1;
+}

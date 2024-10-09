@@ -1,0 +1,76 @@
+.hero-container{
+    width: 100%;
+    height: 80vh;
+    background-image: url("../../assets/Iserael.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.headline-container{
+    color: white;
+    cursor: pointer;
+}
+
+.hero-container .headline-container{
+    width: 90%;
+    height: 200px;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+.headline-container .headline2 ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.headline-container .live-icon span{
+    display: inline-block;
+    width: 50px;
+    height: 30px;
+    background-color: red;
+    letter-spacing: 2px;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.headline-container .headline{
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.headline2 ul li{
+    list-style: none;
+    font-size: 18px;
+}
+
+.headline2 ul li span{
+    display: inline-block;
+    padding: 0 20px;
+    border-right: 2px solid red;
+    height: 10px;
+    line-height: 10px;
+}
+
+.headline2 ul li:first-child span{
+    padding-left: 0;
+}
+
+.headline2 ul li:last-child span{
+    padding-right: 0;
+    border-right: 0;
+}
+
+
+
+
+

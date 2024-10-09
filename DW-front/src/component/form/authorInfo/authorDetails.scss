@@ -1,0 +1,30 @@
+.authorDetails-wrapper {
+  .toggle-button{
+    margin-bottom: 20px;
+  }
+  .fields-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* 每列最小宽度 200px，最大宽度 1fr */
+    gap: 10px; /* 列间隔 */
+  }
+  .ant-switch:where(.css-dev-only-do-not-override-14i19y2).ant-switch.ant-switch-checked{
+    background-color: #1EA2B1;
+    opacity: 0.9;
+  }
+  .ant-switch:where(.css-dev-only-do-not-override-14i19y2).ant-switch:hover:not(.ant-switch-disabled){
+    background-color: #1EA2B1;
+    opacity: 0.9;
+  }
+  .ant-switch{
+    width: 5vw;
+    .ant-switch-inner{
+      outline:none;
+    }
+  }
+  .AntdUIInputWrapper-container{
+    width: 70%;
+  }
+  .AntdUISelectWrapper-container{
+    width: 70%;
+  }
+}
