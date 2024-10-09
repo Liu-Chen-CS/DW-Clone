@@ -1,0 +1,9 @@
+.newsDetails-wrapper{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+
+  .AntdUIInputWrapper-container{
+    width: 50%;
+  }
+}
