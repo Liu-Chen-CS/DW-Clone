@@ -6,6 +6,9 @@ This project is a full-stack web application that combines a backend and fronten
 ## Watch Video
 [Click here to watch the video on YouTube](https://drive.google.com/file/d/1_FGK6comrvuYNIqG8Pgk8CY8gf_IYjwp/view?usp=drive_link)
 
+Or, you can watch it directly here:
+![gif](https://github.com/Liu-Chen-CS/DW-Clone/website_demo.gif)
+
 ## Prerequisites
 - **Java** (for the backend)
 - **Maven** (or use the provided Maven wrapper in `DW-back`)
