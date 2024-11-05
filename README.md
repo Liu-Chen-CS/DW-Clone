@@ -1,4 +1,29 @@
-# Project Name
+<p align="center">
+  <a href="https://www.linkedin.com/in/liuchen27/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:liu.chenbusiness@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://wa.me/491772289641">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
+
+## Stack
+### Front
+   ![Static Badge](https://img.shields.io/badge/Made_with-typescript-orange?style=for-the-badge&logo=typescript&logoColor=transparent)
+   ![Static Badge](https://img.shields.io/badge/Made_with-React-orange?style=for-the-badge&logo=react)
+   ![Static Badge](https://img.shields.io/badge/Made_with-formik-orange?style=for-the-badge&logo=formik&logoColor=transparent)
+   ![Static Badge](https://img.shields.io/badge/Made_with-ant_design-orange?style=for-the-badge&logo=antdesign&logoColor=transparent)
+   ![Static Badge](https://img.shields.io/badge/made_with-vite-orange?style=for-the-badge&logo=vite&logoColor=white)
+
+
+### Back
+   ![Static Badge](https://img.shields.io/badge/made_with-spring-orange?style=for-the-badge&logo=spring)
+   ![Static Badge](https://img.shields.io/badge/made_with-apache_maven-orange?style=for-the-badge&logo=apachemaven)
+   ![Static Badge](https://img.shields.io/badge/made_with-mysql-orange?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ## Overview
 This project is a full-stack web application that combines a backend and frontend, structured for streamlined development, deployment, and maintenance. The backend is built with Java, using Maven for dependency management, while the frontend is built with Vite, TypeScript, and Vue/React (configured in `vite.config.ts`).
