@@ -6,9 +6,10 @@ This project is a full-stack web application that combines a backend and fronten
 ## Watch Video
 [Click here to watch the video on YouTube](https://drive.google.com/file/d/1_FGK6comrvuYNIqG8Pgk8CY8gf_IYjwp/view?usp=drive_link)
 
-Or, you can watch it directly here:
-![website demo gif](https://github.com/user-attachments/assets/a91b0b1b-0a30-4498-a07c-5f8c98dc528f)
-![ScreenRecording2024-11-05104035-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2aa9ea49-5394-47c4-8088-1f636b07043c)
+Or, you can watch it directly here:<br>
+![website demo gif](https://github.com/user-attachments/assets/a91b0b1b-0a30-4498-a07c-5f8c98dc528f)<br>
+![ScreenRecording2024-11-05104035-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2aa9ea49-5394-47c4-8088-1f636b07043c)<br>
+![ScreenRecording2024-11-05104035-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/fc8c2d66-f4a4-4d8d-a533-a97c4dfcbb66)<br>
 
 
 ## Prerequisites
