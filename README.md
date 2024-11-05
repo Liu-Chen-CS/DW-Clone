@@ -8,6 +8,8 @@ This project is a full-stack web application that combines a backend and fronten
 
 Or, you can watch it directly here:
 ![website demo gif](https://github.com/user-attachments/assets/a91b0b1b-0a30-4498-a07c-5f8c98dc528f)
+![ScreenRecording2024-11-05104035-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2aa9ea49-5394-47c4-8088-1f636b07043c)
+
 
 ## Prerequisites
 - **Java** (for the backend)
