@@ -7,7 +7,7 @@ This project is a full-stack web application that combines a backend and fronten
 [Click here to watch the video on YouTube](https://drive.google.com/file/d/1_FGK6comrvuYNIqG8Pgk8CY8gf_IYjwp/view?usp=drive_link)
 
 Or, you can watch it directly here:
-![gif](https://github.com/Liu-Chen-CS/DW-Clone/website_demo.gif)
+![website demo gif](https://github.com/user-attachments/assets/a91b0b1b-0a30-4498-a07c-5f8c98dc528f)
 
 ## Prerequisites
 - **Java** (for the backend)
