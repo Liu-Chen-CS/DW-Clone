@@ -3,6 +3,9 @@
 ## Overview
 This project is a full-stack web application that combines a backend and frontend, structured for streamlined development, deployment, and maintenance. The backend is built with Java, using Maven for dependency management, while the frontend is built with Vite, TypeScript, and Vue/React (configured in `vite.config.ts`).
 
+## Watch Video
+[Click here to watch the video on YouTube](https://www.youtube.com/watch?v=your_video_id](https://drive.google.com/file/d/1_FGK6comrvuYNIqG8Pgk8CY8gf_IYjwp/view))
+
 ## Prerequisites
 - **Java** (for the backend)
 - **Maven** (or use the provided Maven wrapper in `DW-back`)
